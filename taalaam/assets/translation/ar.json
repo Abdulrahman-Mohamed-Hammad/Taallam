@@ -1,0 +1,98 @@
+{
+  "roadmap_learning_path_title": "مسار التعلم",
+  "roadmap_courses_sorted_by_level": "المقررات مرتبة حسب المستوى",
+  "roadmap_overall_progress": "التقدم الكلي في المسار",
+  "beginner_level": "مبتدئ",
+  "intermediate_level": "متوسط",
+  "advanced_level": "متقدم",
+
+
+  "beginner_level_ll": "مستوى مبتدئ",
+  "intermediate_level_ll": "مستوى متوسط",
+  "advanced_level_ll": "مستوى متقدم",
+
+  
+  "lessons_with_level": "{} دروس - {}",
+  "completed_count": "مكتمل",
+  "welcome_message":"أهلاً بك 👋",
+  "learning_path": "مسار التعلـم",
+  "start_learning_journey": "ابدأ رحلتك التعليمية الآن",
+  "my_courses_Length": "مقرراتي ({})",
+   "my_account": "حسابي",
+  "my_courses": "مقرراتـي",
+  "ongoing": "جارية",
+  "ongoing_roadMap": "جاري",
+  "completed": "منتهية",
+  "lessons_title": "الدروس",
+  "download_all": "تحميل الكل",
+  "settings_title": "الإعدادات",
+  "customize_account": "تخصيص حسابك",
+  "general": "عام",
+  "english_language": "اللغة الإنجليزية",
+  "currently_disabled": "معطل حاليا",
+  "account_section": "الحساب",
+  "sign_out": "تسجيل الخروج",
+  "logout_current_account": "الخروج من الحساب الحالي",
+  "sub_app_name": "منصة التعلم الذكي",
+  "app_name": "تَعَلَّمْ",
+  
+  "completed_out_of": "{} / {} مكتمل",
+  "lessons_with_levelCompleted": "{} دروس - {} ✓",
+  "lessons_progress": "{} دروس . {} مكتملة",
+
+  "completed_downloaded": "مكتمل - محمل",
+"not_completed_downloaded": "غير مكتمل - محمل",
+"completed_not_downloaded": "مكتمل - غير محمل",
+"not_completed_not_downloaded": "غير مكتمل - غير محمل",
+  
+
+"illustrative_example": "مثال توضيحي",
+"lesson_description": "وصف الدرس",
+"lesson_title": "عنوان الدرس",
+"lesson_exercises": "تمارين الدرس",
+"correct_wrong_answers": "تصحيح الإجابات الخاطئة",
+"result_percentage": "النتيجة % {}",
+"next_question": "السؤال التالي {} من {}",
+"lessons_list": "قائمة الدروس",
+"complete_first": "أكمل {} أولاً",
+
+
+
+  "start": "ابدأ",
+  "your_journey": "رحلتك",
+  "educational": "التعليمية",
+
+  "join_students_global": "انضم إلى آلاف الطلاب حول العالم",
+  "login": "تسجيل الدخول",
+  "create_account": "إنشاء حساب",
+
+
+
+  "email": "البريد الإلكتروني",
+
+  "password": "كلمة المرور",
+  "password_hint": "أدخل كلمة مرورك",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "login_button": "تسجيل الدخول",
+  "full_name": "الاسم الكامل",
+  "full_name_hint": "أدخل اسمك الكامل",
+
+"email_invalid": "يجب أن يكون حساب @gmail.com صالح",
+  "password_invalid": "يجب أن يكون 6 أحرف على الأقل، مع حرف كبير ورمز خاص",
+  "username_required": "اسم المستخدم مطلوب",
+
+
+
+
+  "verification_sent": "أرسلنا رابط التحقق إلى",
+  "check_email_title": "تحقق من بريدك الإلكتروني",
+  "step_1": "افتح بريدك الإلكتروني  ",
+  "step_2": "ابحث عن رسالة من تَعَلُّم",
+  "step_3": "اضغط على رابط التحقق",
+  "did_not_receive_email": "لم تصلك الرسالة؟",
+  "resend_email": "أعد الإرسال",
+  "error_invalid_auth": "اسم المستخدم أو كلمة المرور غير صحيحة",
+  "send_code": "إرسال رمز التحقق",
+  "remember_password": "هل نسيت كلمة المرور؟",
+  "enter_email_hint": "أدخل بريدك الإلكتروني لتلقي رمز التحقق"
+}

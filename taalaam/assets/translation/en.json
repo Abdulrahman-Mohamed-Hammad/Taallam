@@ -1,0 +1,96 @@
+{
+  "roadmap_learning_path_title": "Learning Path",
+  "roadmap_courses_sorted_by_level": "Courses ordered by level",
+  "roadmap_overall_progress": "Overall progress in the path",
+  "beginner_level": "Beginner",
+  "intermediate_level": "Intermediate",
+  "advanced_level": "Advanced",
+
+    "beginner_level_ll": "Beginner Level",
+  "intermediate_level_ll": "Intermediate Level",
+  "advanced_level_ll": "Advanced Level",
+
+  "completed_count": "Completed",
+  "welcome_message": "Welcome 👋",
+  "learning_path": "Learning Path",
+  "start_learning_journey": "Start your learning journey now",
+  "my_courses": "Courses",
+ "my_account": "Account",
+  "my_courses_Length": "My Courses ({})",
+  "ongoing": "Ongoing",
+  "completed": "Completed",
+  "lessons_title": "Lessons",
+  "download_all": "Download All",
+  "settings_title": "Settings",
+  "customize_account": "Customize your account",
+  "general": "General",
+  "english_language": "English Language",
+  "currently_disabled": "Currently enabled",
+  "account_section": "Account",
+  "sign_out": "Sign Out",
+  "logout_current_account": "Logout from current account",
+
+  "sub_app_name": "Smart Learning Platform",
+  "app_name": "Ta'allam",
+"lessons_with_level": "{} Lessons - {}",
+"lessons_with_levelCompleted": "{} Lessons - {} ✓",
+  "ongoing_roadMap": "ongoing",
+  "completed_out_of": "{} / {} Completed",
+  "lessons_progress": "{} Lessons . {} Completed",
+
+  "completed_downloaded": "Completed - Downloaded",
+"not_completed_downloaded": "Not Completed - Downloaded",
+"completed_not_downloaded": "Completed - Not Downloaded",
+"not_completed_not_downloaded": "Not Completed - Not Downloaded",
+
+
+"illustrative_example": "Illustrative Example",
+"lesson_description": "Lesson Description",
+"lesson_title": "Lesson Title",
+"lesson_exercises": "Lesson Exercises",
+"correct_wrong_answers": "Correct Wrong Answers",
+"result_percentage": "Result % {}",
+
+"next_question": "Next Question {} of {}",
+"lessons_list": "Lessons List",
+"complete_first": "Complete {} first",
+"start": "Start",
+  "your_journey": "your journey",
+  "educational": "educational",
+  "join_students_global": "Join thousands of students around the world",
+  "login": "Login",
+  "create_account": "Create Account",
+
+
+  
+  "email": "Email Address",
+
+  "password": "Password",
+  "password_hint": "Enter your password",
+  "forgot_password": "Forgot Password?",
+  "login_button": "Login",
+  "full_name": "Full Name",
+  "full_name_hint": "Enter your full name",
+  "email_invalid": "Must be a valid @gmail.com address",
+  "password_invalid": "Must be 6+ characters, with one capital and one special symbol",
+  "username_required": "Username cannot be empty",
+ 
+
+
+  "verification_sent": "We sent the verification link to",
+"check_email_title": "Check your email",
+"step_1": "1- Open your email",
+  "step_2": "2- Look for an email from Ta'allum",
+  "step_3": "3- Click on the verification link",
+  "did_not_receive_email": "Didn't receive the email?",
+  "resend_email": "Resend",
+  "error_invalid_auth": "Invalid username or password",
+
+ 
+  "send_code": "Send Verification Code",
+  "remember_password": "Remember your password?",
+
+
+  "enter_email_hint": "Enter your email to receive a code"
+
+}
