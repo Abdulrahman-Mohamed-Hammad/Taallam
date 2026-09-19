@@ -53,11 +53,11 @@ Ta'allam is a student's companion throughout their academic journey — combinin
 
 ---
 
-## 🚀 Getting Started
-*(Add setup/installation instructions here — e.g., prerequisites, how to clone, install dependencies, and run the app)*
 
 ## 🛠️ Built With
-*(Add your tech stack here — e.g., Flutter, Firebase, Node.js, etc.)*
+- **Flutter** — cross-platform app framework
+- **Firebase** — authentication, cloud sync, and backend services
+- **Hive** — lightweight local database for offline storage and caching
 
 ## 📄 License
-*(Add license information here)*
+All rights reserved © Abdulrahman Mohamed Hammad. This code is publicly visible for portfolio/demonstration purposes only. You may not copy, modify, redistribute, or reuse any part of this code or its assets without explicit written permission from the author.
