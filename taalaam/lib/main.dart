@@ -17,6 +17,7 @@ late double width;
 late double height;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await EasyLocalization.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   await FirebaseHelper.googleSignIn.initialize();
   await FirebaseFirestore.instance.clearPersistence();
@@ -32,7 +33,7 @@ void main() async {
       enabled: !kReleaseMode,
       builder: (context) => EasyLocalization(
         supportedLocales: [Locale('ar'), Locale('en')],
-         fallbackLocale: context.locale,
+         fallbackLocale: Locale('ar'),
         saveLocale: true,
         path: "assets/translation",
         child: const MainApp(),
