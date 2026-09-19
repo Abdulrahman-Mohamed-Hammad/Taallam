@@ -13,11 +13,11 @@ Ta'allam is a student's companion throughout their academic journey — combinin
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/mainImageCoverEnglish.png" width="600"/>
+  <img src="screenshots/mainIMageCoverEnglish.png" width="600"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/mainImage (2).png" width="600"/>
+  <img src="screenshots/mainIMage (2).png" width="600"/>
 </p>
 
 **English**
